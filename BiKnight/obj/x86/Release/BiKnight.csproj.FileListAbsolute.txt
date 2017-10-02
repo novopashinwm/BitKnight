@@ -1,0 +1,6 @@
+C:\Users\Владимир\AppData\Local\Temporary Projects\BiKnight\bin\Release\BiKnight.exe
+C:\Users\Владимир\AppData\Local\Temporary Projects\BiKnight\bin\Release\BiKnight.pdb
+C:\Users\Владимир\AppData\Local\Temporary Projects\BiKnight\obj\x86\Release\BiKnight.exe
+C:\Users\Владимир\AppData\Local\Temporary Projects\BiKnight\obj\x86\Release\BiKnight.pdb
+c:\users\владимир\documents\visual studio 2010\Projects\BiKnight\BiKnight\obj\x86\Release\BiKnight.exe
+c:\users\владимир\documents\visual studio 2010\Projects\BiKnight\BiKnight\obj\x86\Release\BiKnight.pdb
